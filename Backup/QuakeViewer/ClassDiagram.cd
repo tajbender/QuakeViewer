@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Font Name="Tahoma" Size="8.25" />
+  <Class Name="IDSoftware.PakStreamReader">
+    <Position X="0.5" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <FileName>IDSoftware\PakStreamReader.cs</FileName>
+      <HashCode>AAAAAEEAACAAIAAAAAAAAEAAAAAAAAgAAQAQEAAgEAA=</HashCode>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="IDSoftware.PakHeader">
+    <Position X="3.75" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <FileName>IDSoftware\PakHeader.cs</FileName>
+      <HashCode>AAIAAAAAAAAAAAAAACAAAAAAAAAAAABAAoAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IDSoftware.PakFormatException">
+    <Position X="0.5" Y="4" Width="1.75" />
+    <TypeIdentifier>
+      <FileName>IDSoftware\PakFormatException.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IDSoftware.PakEntry">
+    <Position X="6" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <FileName>IDSoftware\PakEntry.cs</FileName>
+      <HashCode>AAAAAAAAAACAAQAAAADAAgAAAAAAAAAAAgEAAgIBAEA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IDSoftware.BspHeader">
+    <Position X="8.75" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <FileName>IDSoftware\BspHeader.cs</FileName>
+      <HashCode>IAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAEA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IDSoftware.BspEntry">
+    <Position X="11" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <FileName>IDSoftware\BspEntry.cs</FileName>
+      <HashCode>AAAAAAAAAACAAAAIAAAAAAAAAAAAAAAIAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IDSoftware.BspMipMapHeader">
+    <Position X="11.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>IDSoftware\BspMipMapHeader.cs</FileName>
+      <HashCode>AAAAAABAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IDSoftware.BspMipMapInfo">
+    <Position X="13.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>IDSoftware\BspMipMapInfo.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAQAQAAAAAAAAAAEAAAAAAIAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IDSoftware.BspMipMapTexture">
+    <Position X="15" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>IDSoftware\BspMipMapTexture.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="IDSoftware.PakEntryType">
+    <Position X="6.5" Y="4" Width="1.25" />
+    <TypeIdentifier>
+      <FileName>IDSoftware\PakStreamReader.cs</FileName>
+      <HashCode>AAAAFAAAIgAAAAAEAACAAAAAAAAAAAARBAgAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Enum>
+</ClassDiagram>
